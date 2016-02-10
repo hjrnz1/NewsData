@@ -1,6 +1,5 @@
 ﻿
 #progress{
-    position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -50px;
@@ -8,11 +7,7 @@
     display: block;
 }​
 
-html, body {
-    height: 100%;
-    margin: 0;
-}
-
 #chart {
 min-height: 100%;
+min-width: 100%;
 }

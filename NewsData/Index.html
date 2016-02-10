@@ -9,8 +9,8 @@
     <link rel="stylesheet" type="text/css" href="Styles/font-awesome.min.css" />
 </head>
 <body>
-    <div id="chart"/>
-    <div id="progress" class="fa fa-cog fa-spin fa-5x"/>
+    <div id="progress" class="fa fa-cog fa-spin fa-5x"></div>
+    <div id="chart"/>    
         <script>
             $.getJSON("/api/data", function (data) {
                 document.getElementById('progress').style.display = "none";
