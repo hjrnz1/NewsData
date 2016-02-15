@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsData", "NewsData\NewsData.csproj", "{807B8260-8C8F-437D-AA0E-9385BFEF4819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataJob", "DataJob\DataJob.csproj", "{A7846D50-2A50-44DD-9011-FB95664C67E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsData.Tests", "NewsData.Tests\NewsData.Tests.csproj", "{283B067E-3C2C-48AF-AB80-0C0E36315AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807B8260-8C8F-437D-AA0E-9385BFEF4819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807B8260-8C8F-437D-AA0E-9385BFEF4819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807B8260-8C8F-437D-AA0E-9385BFEF4819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807B8260-8C8F-437D-AA0E-9385BFEF4819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7846D50-2A50-44DD-9011-FB95664C67E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7846D50-2A50-44DD-9011-FB95664C67E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7846D50-2A50-44DD-9011-FB95664C67E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7846D50-2A50-44DD-9011-FB95664C67E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283B067E-3C2C-48AF-AB80-0C0E36315AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283B067E-3C2C-48AF-AB80-0C0E36315AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283B067E-3C2C-48AF-AB80-0C0E36315AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283B067E-3C2C-48AF-AB80-0C0E36315AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
